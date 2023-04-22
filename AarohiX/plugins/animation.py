@@ -1,6 +1,6 @@
 import time
 
-from AarohiX import
+from AarohiX import app
 from AarohiX.ext import CallbackContext, run_async
 
 from AarohiX import dispatcher,OWNER_ID
