@@ -6,7 +6,7 @@ import os
 import re
 import asyncio
 import time
-from AnonX import app
+from AarohiX import app
 import string
 from strings import get_command
 
