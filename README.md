@@ -19,6 +19,12 @@
 <a href="https://github.com/stkeditz/AarohiXMusic/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AarohiXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Aarohi+play+music+on+telegram+voice+chat+feature;Managed+by+DiL%E2%9D%A4%EF%B8%8F"> 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <p align="center">
   <img src="https://te.legra.ph/file/08e3fa23bfff81e9e04b1.jpg">
 </p>
