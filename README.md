@@ -115,7 +115,7 @@
 </h3>
 
 <p align="center">
-<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
+<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>\n
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
 <a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-black?style=for-the-badge&logo=github" alt="Sagar" /> </a>
