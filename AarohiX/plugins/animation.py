@@ -3,9 +3,9 @@ import time
 from telegram import Update
 from telegram.ext import CallbackContext, run_async
 
-from AnsiRobot import dispatcher,OWNER_ID
-from AnsiRobot.modules.disable import DisableAbleCommandHandler
-from AnsiRobot.modules.helper_funcs.chat_status import user_admin
+from AarohiX import dispatcher,OWNER_ID
+from AarohiX.modules.disable import DisableAbleCommandHandler
+from AarohiX.modules.helper_funcs.chat_status import user_admin
 
 # sleep how many times after each edit in 'love'
 EDIT_SLEEP = 1
@@ -75,6 +75,6 @@ __help__ = """
 
 *ғᴀᴋᴇ ᴀɴɪᴍᴀᴛɪᴏɴ ᴄᴏᴍᴍᴀɴᴅ*
  ❍ /love - ᴜsᴇ ɪᴛ ɪғ ᴜ ʜᴀᴠᴇ ɢɪʀʟғʀɪᴇɴᴅ
- ❍ ʙʏ Anand @Brahman_Anand
+ ❍ ʙʏ OWNER
 """
 __mod_name__ = "♦️ ɢᴀᴍᴇ ♦️"
