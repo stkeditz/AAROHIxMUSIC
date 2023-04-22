@@ -7,7 +7,8 @@ RELOAD_COMMAND : ["admincache", "reload"]
 GSTATS_COMMAND : ["gstats", "globalstats"]
 STATS_COMMAND : ["stats"]
 LANGUAGE_COMMAND : ["lundlang", "lavdalele", "langlund"]
-SHAYARI_COMMAND : ["shayari", "dil", "love", "gf", "bf", "feelings", "aaru"]
+SHAYARI_COMMAND : ["shayari", "dil", "love", "gf", "bf", "aaru"]
+DIL_COMMAND : ["dil", "love", "feelings"]
 
 # Play Commands
 PLAY_COMMAND : ["play", "vplay", "cplay", "cvplay", "playforce", "vplayforce", "cplayforce", "cvplayforce", "aarohi", "vaarohi"]
