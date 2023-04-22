@@ -25,6 +25,13 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+### ❣️ᴠɪsɪᴛᴏʀs❣️
+
+<!--
+**stkeditz/stkeditz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <p align="center">
   <img src="https://te.legra.ph/file/08e3fa23bfff81e9e04b1.jpg">
 </p>
