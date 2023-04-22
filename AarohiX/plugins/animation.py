@@ -1,7 +1,7 @@
 import time
 
-from telegram import Update
-from telegram.ext import CallbackContext, run_async
+from AarohiX import Update
+from AarohiX.ext import CallbackContext, run_async
 
 from AarohiX import dispatcher,OWNER_ID
 from AarohiX.modules.disable import DisableAbleCommandHandler
