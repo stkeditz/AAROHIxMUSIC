@@ -8,6 +8,8 @@
   <img src="https://te.legra.ph/file/8d4d7d5dc2e7cf675d80c.jpg">
 </p>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <p align="center">
 <a href="https://github.com/stkeditz/AarohiXMusic/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AarohiXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/stkeditz/AarohiXMusic/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AarohiXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
