@@ -1,7 +1,6 @@
 import time
 
 from AarohiX import app
-from AarohiX import CallbackContext, run_async
 
 from AarohiX import dispatcher,OWNER_ID
 from AarohiX.modules.disable import DisableAbleCommandHandler
