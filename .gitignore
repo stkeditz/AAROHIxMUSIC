@@ -1,6 +1,6 @@
 .env
 .cache
-AarohiXlogs.txt
+anonXlogs.txt
 .DS_Store
 *.session
 raw_files/
