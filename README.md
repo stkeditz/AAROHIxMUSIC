@@ -62,6 +62,8 @@
 
 ━━━━━━━━━━━━━━━━━━━━
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <h3 align="center">
     ─「 💖ᴜsᴇғᴜʟ✨ᴄᴏᴍᴍᴀɴᴅs✨ᴏғ✨ʙᴏᴛs💖 」─   
@@ -85,6 +87,8 @@
 
 - /end ᴏʀ /stop : ᴄʟᴇᴀʀs ᴛʜᴇ ǫᴜᴇᴜᴇ ᴀɴᴅ ᴇɴᴅ ᴛʜᴇ ᴄᴜʀʀᴇɴᴛ ᴩʟᴀʏɪɴɢ sᴛʀᴇᴀᴍ.
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3 align="center">
     ─「 sᴜᴩᴩᴏʀᴛ [ᴅɪʟ❣️] 」─
 </h3>
@@ -96,6 +100,14 @@
 <p align="center">
 <a href="[https://t.me/LOVE_FEELINGS_WILL1](https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
+
+### 🧪 Get String Session
+
+</h4>    
+<p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+
+
+### Copy Pasters You Can Copy This But Must Give Credits ...
 
 <h3 align="center">
     ─「🍃 ᴄʀᴇᴅɪᴛs 🍃」─
