@@ -11,10 +11,10 @@ from strings import get_command
 
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
-DIL = [ " ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ \n
+DIL = [ " 🥺**◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈** \n\n
 **🍃ʀᴇʟᴀᴛɪᴏɴsʜɪᴘ ᴅᴏsᴇɴ'ᴛ ɴᴇᴇᴅ ᴄᴜᴛᴇ ᴠᴏɪᴄᴇ ᴀɴᴅ ʟᴏᴠᴇʟʏ ғᴀᴄᴇ...🥺
  ʀᴇʟᴀᴛɪᴏɴsʜɪᴘ ɴᴇᴇᴅs ᴘᴜʀᴇ ʜᴇᴀʀᴛ ᴡɪᴛʜ ᴜɴʙʀᴇᴀᴋᴀʙʟᴇ ᴛʀᴜsᴛ🥀...🍃** \n\n
-** ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ ** " ]
+**◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈** " ]
 
 # Command
 DIL_COMMAND = get_command("DIL_COMMAND")
