@@ -11,8 +11,8 @@ from strings import get_command
 
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
-DIL = [" 🥺**🍃Relationship doesn't need cute voice n lovely face🥺
- Relationship needs pure heart with unbreakable trust🍃** "]
+DIL = [" 🥺**Relationship doesn't need cute voice n lovely face,
+ Relationship needs pure heart with unbreakable trust**🥺 "]
 
 # Command
 DIL_COMMAND = get_command("DIL_COMMAND")
