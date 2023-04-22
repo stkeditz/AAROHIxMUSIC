@@ -11,7 +11,7 @@ from strings import get_command
 
 from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
-DIL = [ "** ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ ** \n\n
+DIL = [ " ** ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ ** \n\n
 **🍃ʀᴇʟᴀᴛɪᴏɴsʜɪᴘ ᴅᴏsᴇɴ'ᴛ ɴᴇᴇᴅ ᴄᴜᴛᴇ ᴠᴏɪᴄᴇ ᴀɴᴅ ʟᴏᴠᴇʟʏ ғᴀᴄᴇ...🥺
  ʀᴇʟᴀᴛɪᴏɴsʜɪᴘ ɴᴇᴇᴅs ᴘᴜʀᴇ ʜᴇᴀʀᴛ ᴡɪᴛʜ ᴜɴʙʀᴇᴀᴋᴀʙʟᴇ ᴛʀᴜsᴛ🥀...🍃** \n\n
 ** ◈ ━━━━━━━ ⸙ - ⸙ ━━━━━━━ ◈ ** " ]
