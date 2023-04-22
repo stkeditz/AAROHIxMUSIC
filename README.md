@@ -118,7 +118,7 @@
 <a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
 <a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
 <a href="https://github.com/Callsmusic"> <img src="https://img.shields.io/badge/CallsMusic-black?style=for-the-badge&logo=github" alt="Callsmusic" /> </a>
-<a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-red?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+<a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-black?style=for-the-badge&logo=github" alt="Sagar" /> </a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
