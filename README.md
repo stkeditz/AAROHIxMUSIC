@@ -114,8 +114,8 @@
     ─「🍃 ᴄʀᴇᴅɪᴛs 🍃」─
 </h3>
 
-<h3 align="center">
 <details>
+<h3 align="center">
 <summary><b>ʙɪɢ ᴄʀᴇᴅɪᴛs</b></summary>
 <br>
 </h3>
