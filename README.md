@@ -140,7 +140,7 @@
 </h3>
 
 <p align="center">
-<a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+<a href="https://t.me/HONEY_SINGH_121"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
 </p>
 
 - <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/HONEY_SINGH_121) </b>
