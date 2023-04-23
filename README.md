@@ -125,7 +125,7 @@
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic](https://github.com/Callsmusic/Callsmusic)
+- [CallsMusic](https://github.com/Callsmusic)
 </details>
 
 <a href="https://youtu.be/Wa4Mz59dGrU"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
