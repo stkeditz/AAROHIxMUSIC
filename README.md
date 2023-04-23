@@ -117,8 +117,8 @@
 <details>
 <h3 align="center">
 <summary><b>ʙɪɢ ᴄʀᴇᴅɪᴛs</b></summary>
-<br>
 </h3>
+<br>
 
 🥺ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ ᴀᴀʀᴏʜɪ🥺:
 
