@@ -131,7 +131,9 @@
 
 <a href="https://youtu.be/Wa4Mz59dGrU"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+<p align="center">  
+<a href="https://www.python.org/"><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" width="200""/></a>
+</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
