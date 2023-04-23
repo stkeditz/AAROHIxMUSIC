@@ -11,12 +11,12 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-<a href="https://github.com/stkeditz/AarohiXMusic/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AarohiXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/stkeditz/AarohiXMusic/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AarohiXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/stkeditz/AarohiXMusic/stargazers"><img src="https://img.shields.io/github/stars/stkeditz/AarohiXMusic?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/stkeditz/AarohiXMusic/network/members"> <img src="https://img.shields.io/github/forks/stkeditz/AarohiXMusic?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
 <a href="https://github.com/stkeditz/AarohiXMusic/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-darkred?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=yellow&label=pyrogram&logo=python&logoColor=green&style=for-the-badge" /></a>
-<a href="https://github.com/stkeditz/AarohiXMusic/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AarohiXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-darkred?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://pypi.org/project/Pyrogram/"> <img src="https://img.shields.io/pypi/v/pyrogram?color=darkred&label=pyrogram&logo=python&logoColor=darkred&style=for-the-badge" /></a>
+<a href="https://github.com/stkeditz/AarohiXMusic/commits/stkeditz"> <img src="https://img.shields.io/github/last-commit/stkeditz/AarohiXMusic?color=darkred&logo=github&logoColor=darkred&style=for-the-badge" /></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
