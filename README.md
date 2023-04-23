@@ -21,7 +21,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Aarohi+play+music+on+telegram+voice+chat+feature;Managed+by+DiL%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=Aarohi+play+music+on+telegram+voice+chat+feature;Managed+by+DiL%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -94,11 +94,11 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/LOVE_FEELINGS_WILL"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/LOVE_FEELINGS_WILL"><img src="https://img.shields.io/badge/-Support%20Group-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="[https://t.me/LOVE_FEELINGS_WILL1](https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="[https://t.me/LOVE_FEELINGS_WILL1](https://te.legra.ph/file/5d90c3bc7f0d229194a9f.jpg)"><img src="https://img.shields.io/badge/-Support%20Channel-darkred.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -138,7 +138,7 @@
 </h3>
 
 <p align="center">
-<a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-black?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+<a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-darkred?style=for-the-badge&logo=github" alt="Sagar" /> </a>
 </p>
 
-- <b> _ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/HONEY_SINGH_121)_ </b>
+- <b> ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/HONEY_SINGH_121) </b>
