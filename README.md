@@ -104,7 +104,7 @@
 ### 🧪 Get String Session
 
 </h4>    
-<p><a href="https://replit.com/@AssadAli/String-Session-Generator"><img src="https://img.shields.io/badge/Generate%20On%20Repl-darkblueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://replit.com/@dashezup/generate-pyrogram-session-string"><img src="https://img.shields.io/badge/Generate%20On%20Repl-darkblueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
