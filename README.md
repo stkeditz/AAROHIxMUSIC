@@ -114,9 +114,6 @@
     ─「🍃 ᴄʀᴇᴅɪᴛs 🍃」─
 </h3>
 
-<p align="center">
-<a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-black?style=for-the-badge&logo=github" alt="Sagar" /> </a>
-</p>
 <details>
 <summary><b>ʙɪɢ ᴄʀᴇᴅɪᴛs</b></summary>
 <br>
@@ -138,6 +135,8 @@
     ─「❣️ ᴏᴡɴᴇʀ ❣️」─
 </h3>
 
-
+<p align="center">
+<a href="https://github.com/stkeditz"> <img src="https://img.shields.io/badge/Sagar-black?style=for-the-badge&logo=github" alt="Sagar" /> </a>
+</p>
 
 - <b> _ᴠᴇʀʏ sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [sᴀɢᴀʀ](https://github.com/stkeditz) ғᴏʀ [ᴅɪʟ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/HONEY_SINGH_121)_ </b>
