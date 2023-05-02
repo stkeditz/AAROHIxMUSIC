@@ -37,7 +37,7 @@
     ─「 ❣️ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ❣️ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/stkeditz//AarohiXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/stkeditz//AAROHIxMUSIC"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-darkred?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h3 align="center">
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -45,7 +45,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/stkeditz//AarohiXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/stkeditz//AAROHIxMUSIC/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -57,8 +57,8 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/stkeditz/DILxMUSIC123 && cd DILxMUSIC123`
-- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese DilMusic)` jo name rakhte h
+`git clone https://github.com/stkeditz/AAROHIxMUSIC && cd AAROHIxMUSIC`
+- ᴇɴᴛᴇʀ ɪɴᴛᴏ ᴛʜᴇ ᴄʟᴏɴᴇᴅ ʀᴇᴘᴏsɪᴛᴏʀʏ ʙʏ : `cd (jese AAROHIxMUSIC)` jo name rakhte h
 - ʏᴏᴜ'ᴠᴇ ᴛᴏ ʙᴀsʜ ᴛʜᴇ sᴇᴛᴜᴘ ғɪʟᴇ ʙʏ : `bash setup` (ɪᴛ'ʟʟ ᴀsᴋ ʏᴏᴜ ᴛᴏ ғɪʟʟ ᴛʜᴇ ᴇɴᴠ ᴛʜᴇʀᴇ)
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
