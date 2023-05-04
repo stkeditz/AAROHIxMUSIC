@@ -12,11 +12,11 @@
     ─「 ❣️sᴘᴇᴄɪᴀʟ🌹ᴛᴀɢᴀʟʟ❣️ 」─   
 </h3>
 
-•━━━━━━━━•••━━━━━━━━•
+            •━━━━━━━━•••━━━━━━━━•
 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=Aarohi+play+music+on+telegram+voice+chat+feature;Managed+by+DiL%E2%9D%A4%EF%B8%8F"> 
 
-
-•━━━━━━━━•••━━━━━━━━•
+            •━━━━━━━━•••━━━━━━━━•
 
 <h3 align="center">
     ─「 ❣️ᴛᴇʟᴇɢʀᴀᴘʜ ʟɪɴᴋ❣️ 」─   
