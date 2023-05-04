@@ -10,7 +10,9 @@
 
 Config vars are basically the variables which configure or modify bot to function, which are the basic necessities of plugins or code to work. You have to set the proper mandatory vars to make it functional and to start the basic feature of bot.
 
-<h2 align="center">❣️ᴍᴏɴᴅᴀᴛᴏʀʏ ᴠᴀʀs❣️</h2>
+<h3 align="center">
+    ─「 ❣️ᴍᴏɴᴅᴀᴛᴏʀʏ ᴠᴀʀs❣️ 」─
+</h3>
 
 - These are the minimum required vars need to setup to make Yukki Music Bot functional.
 
@@ -24,7 +26,9 @@ Config vars are basically the variables which configure or modify bot to functio
 8. `STRING_SESSION` : Pyrogram Session Needed, Generate string from [@Shsusu_bot](http://t.me/Shsusu_bot) in Telegram.
 
 
-## Non-Mandatory Vars
+<h3 align="center">
+    ─「 ❣️ɴᴏɴ-ᴍᴏɴᴅᴀᴛᴏʀʏ❣️ 」─
+</h3>
 
 - These are the extra vars for extra features inside Music Bot. You can leave non mandatory vars for now and can add them later.
 
@@ -37,7 +41,9 @@ Config vars are basically the variables which configure or modify bot to functio
 7. `SUPPORT_CHANNEL` : If you've any channel for your music bot , fill it with your channel link
 8. `SUPPORT_GROUP` : If you've any group support for your music bot , fill it with your group link
 
-## Play FileSize Limit Vars
+<h3 align="center">
+    ─「 ❣️ᴘʟᴀʏ ғɪʟᴇsɪᴢᴇ ᴠᴀʀs❣️ 」─
+</h3>
 
 - Maximum File size limit for the audio and videos that a user can play from your bot. [Only Bytes Size Accepted]
 > You can convert mb into bytes from https://www.gbmb.org/mb-to-bytes and use it here 
@@ -45,8 +51,9 @@ Config vars are basically the variables which configure or modify bot to functio
 1. `TG_AUDIO_FILESIZE_LIMIT` : Maximum file size limit for audio files which can be streamed over vc. Defaults to 104857600 bytes, i.e. 100MB
 2. `TG_VIDEO_FILESIZE_LIMIT` : Maximum file size limit for video files which can be played. Defaults to 1073741824 bytes, i.e. 1024MB or 1GB
 
-
-## Bot Vars
+<h3 align="center">
+    ─「 ❣️ʙᴏᴛ ᴠᴀʀs❣️ 」─
+</h3>
 
 - These all vars are used for setting up bot. You can edit these vars if you want , else leave all of them as it is.
 
@@ -59,7 +66,9 @@ Config vars are basically the variables which configure or modify bot to functio
 7. `AUTO_SUGGESTION_MODE` : Set it True if you want to bot to suggest about bot commands to random chats of your bots. 
 9. `AUTO_SUGGESTION_TIME` : Time after which your bot will suggest random 1/10 chats of your served chats about bot commands. Default to 5400 seconds, i.e 90 Mins
 
-## Spotify Vars
+<h3 align="center">
+    ─「 ❣️sᴘᴏᴛɪғʏ ᴠᴀʀs❣️ 」─
+</h3>
 
 - You can play tracks or playlists from spotify from Yukki Music bot
 - You'll need these two vars to make spotify play working. This is not essential , you can leave them blank if you want.
@@ -69,7 +78,9 @@ Config vars are basically the variables which configure or modify bot to functio
 2. `SPOTIFY_CLIENT_SECRET` : Get it from https://developer.spotify.com/dashboard 
 
 
-## Heroku Vars
+<h3 align="center">
+    ─「 ❣️ʜᴇʀᴏᴋᴜ ᴠᴀʀs❣️ 」─
+</h3>
 
 - To work some Heroku compatible modules, this var value required to Access your account to use `get_log`, `usage`, `update` etc etc commands.
 - You can fill this var using your API key or Authorization token.
@@ -80,7 +91,9 @@ Config vars are basically the variables which configure or modify bot to functio
 2. `HEROKU_APP_NAME` : You have to Enter the app name which you gave to identify your Music Bot in Heroku. 
 
 
-## Custom Repo Vars
+<h3 align="center">
+    ─「 ❣️ᴄᴜsᴛᴏᴍ ʀᴇᴘᴏ ᴠᴀʀs❣️ 」─
+</h3>
 
 - If you plan to use Aarohi Music Bot with your own customized or modified code.
 
@@ -91,7 +104,9 @@ Config vars are basically the variables which configure or modify bot to functio
 
 
 
-## Images/Thumbnail Vars
+<h3 align="center">
+    ─「 ❣️ɪᴍᴀɢᴇ/ᴛʜᴜᴍʙɴᴀɪʟ ᴠᴀʀs❣️ 」─
+</h3>
 
 - You can change images which are used in Aarohi Music Bot.
 - You can generate telegaph links from [@Alone_Dil_bot](http://t.me/Alone_Dil_bot) and use it here.
@@ -110,7 +125,9 @@ Config vars are basically the variables which configure or modify bot to functio
 12. `SPOTIFY_ALBUM_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
 13. `SPOTIFY_PLAYLIST_IMG_URL` : This image comes when someone plays Spotify album via link in inline mode. 
 
-## Multi Assistant Mode
+<h3 align="center">
+    ─「 ❣️ᴍᴜʟᴛɪᴀssɪsᴛᴀɴᴛ ᴍᴏᴅᴇ❣️ 」─
+</h3>
 
 - You can use upto 5 Assistant Clients ( allowing your bot to atleast work in 2000-2500 chats at a time )
 
