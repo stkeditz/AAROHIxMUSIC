@@ -10,7 +10,7 @@
 
 Config vars are basically the variables which configure or modify bot to function, which are the basic necessities of plugins or code to work. You have to set the proper mandatory vars to make it functional and to start the basic feature of bot.
 
-## Mandatory Vars
+<h2 align="center">❣️ᴍᴏɴᴅᴀᴛᴏʀʏ ᴠᴀʀs❣️</h2>
 
 - These are the minimum required vars need to setup to make Yukki Music Bot functional.
 
