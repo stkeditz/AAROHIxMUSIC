@@ -111,4 +111,4 @@ Config vars are basically the variables which configure or modify bot to functio
 1. `STRING_SESSION2` : Pyrogram Session Needed, Generate string from [@Shsusu_bot](http://t.me/Shsusu_bot) in Telegram.
 2. `STRING_SESSION3` : Pyrogram Session Needed, Generate string from [@Shsusu_bot](http://t.me/Shsusu_bot) in Telegram.
 3. `STRING_SESSION4` : Pyrogram Session Needed, Generate string from [@Shsusu_bot](http://t.me/Shsusu_bot) in Telegram.
-4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from @Shsusu_bot](http://t.me/Shsusu_bot) in Telegram.
+4. `STRING_SESSION5` : Pyrogram Session Needed, Generate string from [@Shsusu_bot](http://t.me/Shsusu_bot) in Telegram.
