@@ -10,7 +10,7 @@
 
             •━━━━━━━━•••━━━━━━━━•
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=Aarohi+play+music+on+telegram+voice+chat+feature;Managed+by+DiL%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=New+Plugins+Added+In+Music+Bot;That's+Managed+By+❤DiL%E2%9D%A4%EF%B8%8F"> 
 
             •━━━━━━━━•••━━━━━━━━•
 
