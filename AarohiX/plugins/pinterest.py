@@ -1,6 +1,6 @@
 import requests
 from requests import get 
-from DAXXMUSIC import app
+from AarohiX import app
 from pyrogram import filters
 from pyrogram.types import InputMediaPhoto
 
