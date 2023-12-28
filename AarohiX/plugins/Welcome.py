@@ -5,10 +5,6 @@ from pyrogram.types import *
 from logging import getLogger
 from AarohiX import app
 
-
-
-
-
 LOGGER = getLogger(__name__)
 
 class WelDatabase:
@@ -19,7 +15,7 @@ class WelDatabase:
         return chat_id in self.data
 
     async def add_wlcm(self, chat_id):
-        self.data[chat_id] = {}  
+        self.data[chat_id] = {}
 
     async def rm_wlcm(self, chat_id):
         if chat_id in self.data:
@@ -34,10 +30,6 @@ class temp:
     MELCOW = {}
     U_NAME = None
     B_NAME = None
-
-# ... (rest of your code remains unchanged)
-
-# ... (FUCK you randi ke bacvhhe )
 
 def circle(pfp, size=(500, 500)):
     pfp = pfp.resize(size, Image.ANTIALIAS).convert("RGBA")
@@ -64,9 +56,6 @@ def welcomepic(pic, user, chatname, id, uname):
     background.save(f"downloads/welcome#{id}.png")
     return f"downloads/welcome#{id}.png"
 
-# FUCK you bhosadiwale 
-
-
 @app.on_message(filters.command("wel") & ~filters.private)
 async def auto_state(_, message):
     usage = "**Usage:**\n⦿/wel [on|off]\n➤ᴀᴜʀ ʜᴀᴀɴ ᴋᴀɴɢᴇʀs ᴋᴀʀᴏ ᴀʙ ᴄᴏᴘʏ ʙʜᴏsᴀᴅɪᴡᴀʟᴇ\n➤sᴀʟᴏɴ ᴀᴜʀ ʜᴀᴀɴ sᴛʏʟɪsʜ ғᴏɴᴛ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ ɪɴ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟ.!\ᴀᴜʀ ʜᴀᴀɴ ᴀɢʀ ᴋʜᴜᴅ ᴋɪ ᴋᴀʀɴɪ ʜᴀɪ ᴛᴏ ɢᴀᴀɴᴅ ᴍᴀʀᴀᴏ ʙᴇᴛɪᴄʜᴏᴅ"
@@ -74,10 +63,7 @@ async def auto_state(_, message):
         return await message.reply_text(usage)
     chat_id = message.chat.id
     user = await app.get_chat_member(message.chat.id, message.from_user.id)
-    if user.status in (
-        enums.ChatMemberStatus.ADMINISTRATOR,
-        enums.ChatMemberStatus.OWNER,
-    ):
+    if user.status in ("administrator", "creator"):
         A = await wlcm.find_one(chat_id)
         state = message.text.split(None, 1)[1].strip().lower()
         if state == "on":
@@ -97,12 +83,10 @@ async def auto_state(_, message):
     else:
         await message.reply("Only Admins Can Use This Command")
 
-# ... (copy paster teri maa ki chut  )
-
 @app.on_chat_member_updated(filters.group, group=-3)
 async def greet_group(_, member: ChatMemberUpdated):
     chat_id = member.chat.id
-    A = await wlcm.find_one(chat_id)  # Corrected this line
+    A = await wlcm.find_one(chat_id)
     if not A:
         return
     if (
@@ -147,8 +131,6 @@ Usᴇʀɴᴀᴍᴇ ✧ @{user.username}
         os.remove(f"downloads/pp{user.id}.png")
     except Exception as e:
         pass
-
-# ... (resfuxbk 
 
 @app.on_message(filters.new_chat_members & filters.group, group=-1)
 async def bot_wel(_, message):
