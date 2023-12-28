@@ -56,32 +56,15 @@ def welcomepic(pic, user, chatname, id, uname):
     background.save(f"downloads/welcome#{id}.png")
     return f"downloads/welcome#{id}.png"
 
-@app.on_message(filters.command("wel") & ~filters.private)
+@app.on_message(~filters.private)
 async def auto_state(_, message):
-    usage = "**Usage:**\n⦿/wel [on|off]\n➤ᴀᴜʀ ʜᴀᴀɴ ᴋᴀɴɢᴇʀs ᴋᴀʀᴏ ᴀʙ ᴄᴏᴘʏ ʙʜᴏsᴀᴅɪᴡᴀʟᴇ\n➤sᴀʟᴏɴ ᴀᴜʀ ʜᴀᴀɴ sᴛʏʟɪsʜ ғᴏɴᴛ ɴᴏᴛ ᴀʟʟᴏᴡᴇᴅ ɪɴ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟ.!\ᴀᴜʀ ʜᴀᴀɴ ᴀɢʀ ᴋʜᴜᴅ ᴋɪ ᴋᴀʀɴɪ ʜᴀɪ ᴛᴏ ɢᴀᴀɴᴅ ᴍᴀʀᴀᴏ ʙᴇᴛɪᴄʜᴏᴅ"
-    if len(message.command) == 1:
-        return await message.reply_text(usage)
     chat_id = message.chat.id
     user = await app.get_chat_member(message.chat.id, message.from_user.id)
     if user.status in ("administrator", "creator"):
         A = await wlcm.find_one(chat_id)
-        state = message.text.split(None, 1)[1].strip().lower()
-        if state == "on":
-            if A:
-                return await message.reply_text("Special Welcome Already Enabled")
-            elif not A:
-                await wlcm.add_wlcm(chat_id)
-                await message.reply_text(f"Enabled Special Welcome in {message.chat.title}")
-        elif state == "off":
-            if not A:
-                return await message.reply_text("Special Welcome Already Disabled")
-            elif A:
-                await wlcm.rm_wlcm(chat_id)
-                await message.reply_text(f"Disabled Special Welcome in {message.chat.title}")
-        else:
-            await message.reply_text(usage)
-    else:
-        await message.reply("Only Admins Can Use This Command")
+        if not A:
+            await wlcm.add_wlcm(chat_id)
+            await message.reply_text(f"Enabled Special Welcome in {message.chat.title}")
 
 @app.on_chat_member_updated(filters.group, group=-3)
 async def greet_group(_, member: ChatMemberUpdated):
