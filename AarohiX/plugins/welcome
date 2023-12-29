@@ -56,17 +56,7 @@ def welcomepic(pic, user, chatname, id, uname):
     background.save(f"downloads/welcome#{id}.png")
     return f"downloads/welcome#{id}.png"
 
-@app.on_message(~filters.private)
-async def auto_state(_, message):
-    chat_id = message.chat.id
-    user = await app.get_chat_member(chat_id, message.from_user.id)
-    
-    if user and user.status in ("administrator", "creator"):
-        A = await wlcm.find_one(chat_id)
-        if not A:
-            await wlcm.add_wlcm(chat_id)
-            await message.reply_text(f"Enabled Special Welcome in {message.chat.title}")
-            
+#---------------------AUTO-SUPPORT-------------------#
 
 @app.on_chat_member_updated(filters.group, group=-3)
 async def greet_group(_, member: ChatMemberUpdated):
