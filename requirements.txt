@@ -22,5 +22,5 @@ tgcrypto
 numpy
 youtube-search
 youtube-search-python
-yt-dlp==2023.12.30
+https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
 telegraph
