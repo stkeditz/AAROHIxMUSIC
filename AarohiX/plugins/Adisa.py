@@ -3,8 +3,7 @@ import random
 from AarohiX import app
 from AarohiX.misc import SUDOERS
 from pyrogram import *
-from pyrogram.types import *
-from pyrogram.types import Message
+from pyrogram.types import Message, ChatType
 from pyrogram import filters
 
 
