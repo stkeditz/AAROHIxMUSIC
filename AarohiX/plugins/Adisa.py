@@ -5,7 +5,6 @@ from AarohiX.misc import SUDOERS
 from pyrogram import *
 from pyrogram.types import *
 from pyrogram.types import Message
-from pyrogram.enums import ChatType, ChatMemberStatus
 from pyrogram import filters
 
 
@@ -38,8 +37,8 @@ async def admin_check(message: Message) -> bool:
 
     check_status = await client.get_chat_member(chat_id=chat_id, user_id=user_id)
     if check_status.status not in [
-        ChatMemberStatus.OWNER,
-        ChatMemberStatus.ADMINISTRATOR
+        "OWNER",  # Replace with the actual string representation of ChatMemberStatus.OWNER
+        "ADMINISTRATOR",  # Replace with the actual string representation of ChatMemberStatus.ADMINISTRATOR
     ]:
         return False
     else:
